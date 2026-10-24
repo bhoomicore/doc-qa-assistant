@@ -1,0 +1,3 @@
+Supervised learning trains a model on labelled examples, where each input is paired with the correct output. Common supervised tasks include classification and regression. Spam detection is a typical classification problem.
+
+Overfitting happens when a model memorises the training data instead of learning general patterns. It can be reduced with more data, regularisation, or by stopping training early. A validation set helps detect overfitting.

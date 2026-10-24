@@ -1,0 +1,3 @@
+Solar panels use photovoltaic cells made of silicon to convert sunlight directly into electricity. When photons hit the cell, they knock electrons loose and create an electric current. Panels produce direct current, which an inverter converts to alternating current for home use.
+
+The efficiency of most commercial solar panels is between 15 and 22 percent. Efficiency drops as panel temperature rises, so ventilation behind the panels helps output.

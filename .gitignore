@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+models/
+.env
+.vscode/
+corpus/*
+!corpus/photosynthesis.txt
+!corpus/machine_learning.txt
+!corpus/solar_energy.txt
