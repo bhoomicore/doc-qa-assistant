@@ -1,3 +1,12 @@
+NeonDoc Quest: Document Q&A Assistant
+
+🚀 Live Demo: https://neondocquest.streamlit.app/
+
+💻 Source Code: "View this GitHub Repository" (PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE)
+
+A neon-yellow, game-inspired document question-answering assistant that provides grounded answers with supporting source passages. Earn XP, build combos, complete quests, and unlock badges while exploring your documents.
+
+---
 # NeonDoc Quest: Document Q&A Assistant
 
 A document question-answering assistant that answers only from the documents you give it, shows the supporting source passage for every answer, and says **"Information not found in provided document."** when the answer is not there. It runs 100% locally with free open-source tools and no paid APIs.
